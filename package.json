@@ -1,0 +1,16 @@
+{
+  "name": "cartolabot",
+  "version": "0.0.1",
+  "description": "A telegram bot for CartolaFC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estevão Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "node-telegram-bot-api": "^0.21.1",
+    "request": "^2.72.0"
+  }
+}
